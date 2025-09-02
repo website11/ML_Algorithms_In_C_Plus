@@ -59,5 +59,11 @@ $\bar{x}$ = mean of all x-values
 **What is the formula for determining the most ideal y-intercept?**
 $b=\bar{y}-m\bar{x}$
 
+**What is the end result?**
+Ex.
+$y = 0.93x + 1.50$
 
+Let's stick with the hours studied example. 
+- Here, someone who studies 0 hours gets base score of **1.50**
+- Every hour studied increases the score by **0.93**
 
